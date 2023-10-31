@@ -22,3 +22,14 @@ func NewAccount(APPID string, Token string) *Account {
 	datastore.Put(APPID+":"+account.Token, account.UUID)
 	return &account
 }
+
+func GetAccount(APPID string, Token string) *Account {
+	account := Account{}
+	account.APPID = APPID
+	account.Token = Token
+	// get datastore
+	datastore := datastore.GcpDatastore{}
+	datastore.Init()
+	account.UUID = datastore.Get(APPID + ":" + account.Token)
+	return &account
+}
