@@ -5,7 +5,7 @@ go 1.21.0
 require (
 	github.com/gofiber/fiber/v2 v2.50.0
 	github.com/google/uuid v1.4.0
-	github.com/hojin-kr/datastore v0.0.0-20231031141918-105c71a8e329
+	github.com/hojin-kr/datastore v0.0.0-20231106143712-aa5481a06b54
 )
 
 require (

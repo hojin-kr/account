@@ -82,6 +82,8 @@ github.com/googleapis/gax-go/v2 v2.12.0/go.mod h1:y+aIqrI5eb1YGMVJfuV3185Ts/D7qK
 github.com/grpc-ecosystem/grpc-gateway v1.16.0/go.mod h1:BDjrQk3hbvj6Nolgz8mAMFbcEtjT1g+wF4CSlocrBnw=
 github.com/hojin-kr/datastore v0.0.0-20231031141918-105c71a8e329 h1:YI6FKpGTq2a2triXoatTE7vE6CGSueKpuHQOkEAopwg=
 github.com/hojin-kr/datastore v0.0.0-20231031141918-105c71a8e329/go.mod h1:G9upWOfeJEjEoc+80I88ldRLEtimu2A+NZodqOzSJ4g=
+github.com/hojin-kr/datastore v0.0.0-20231106143712-aa5481a06b54 h1:93bupgIB+rooM82zV8DNz/m4u2KKYQrlbpot2JKonpg=
+github.com/hojin-kr/datastore v0.0.0-20231106143712-aa5481a06b54/go.mod h1:wrdJRP7tcStaYhrvGwczx9hKTTP7RfsthB2Qzhliblg=
 github.com/klauspost/compress v1.16.7 h1:2mk3MPGNzKyxErAw8YaohYh69+pa4sIQSC0fPGCFR9I=
 github.com/klauspost/compress v1.16.7/go.mod h1:ntbaceVETuRiXiv4DpjP66DpAtAGkEQskQzEyD//IeE=
 github.com/mattn/go-colorable v0.1.13 h1:fFA4WZxdEF4tXPZVKMLwD8oUnCTTo08duU7wxecdEvA=
